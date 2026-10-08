@@ -218,4 +218,4 @@ ChessNet is provided as a complete free version with all features and updates in
 Don't miss out on the fun! Download ChessNet today and start playing chess against players from all around the world.
 
 ---
-**Last updated:** 2026-10-07 21:09:16 UTC
+**Last updated:** 2026-10-08 01:29:18 UTC
